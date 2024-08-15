@@ -1,5 +1,7 @@
-Hi there, it's @ssakkut
+Hi there, it's @ssakkout
+
 -Iam interested in NLP-SLP
+
 -Currently working on various NLP projects including ASR, tex summarization etc.
 
 
