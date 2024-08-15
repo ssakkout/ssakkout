@@ -1,6 +1,8 @@
-**Text Summarization**
+Hi there, it's @ssakkut
+-Iam interested in NLP-SLP
+-Currently working on various NLP projects including ASR, tex summarization etc.
 
-- This repo aims at having a solid text summarization system whish will be a part of an upcoming bigger project.
+
 
 
 
