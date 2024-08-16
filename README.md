@@ -1,8 +1,8 @@
 Hi there, it's @ssakkout
 
--Iam interested in NLP-SLP
+-Iam interested in NLP-ML-DL
 
--Currently working on various NLP projects including ASR, tex summarization etc.
+-Currently working on various NLP projects including ASR, text summarization etc.
 
 
 
