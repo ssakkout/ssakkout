@@ -4,7 +4,6 @@ Hi there, it's @ssakkout
 
 -Currently working on various NLP projects including ASR, text summarization etc.
 
-![Visitor Count](https://ssakkout.github.io/count.txt)
 
 
 
